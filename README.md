@@ -16,7 +16,7 @@
 
 > Tool sử dụng `query_id` làm dữ liệu đầu vào cho mỗi tài khoản
 
-> Tất cả dữ liệu mà bạn cần nhập đều nằm ở các file trong thư mục 📁 `src / data`
+> Tất cả dữ liệu mà bạn cần nhập đều nằm ở các file:
 
 - [user.txt](user.txt) : chứa danh sách `query_id` của các tài khoản, mỗi dòng ứng với một tài khoản
 - [proxy.txt](proxy.txt) : chứa danh sách proxy, proxy ở mỗi dòng sẽ ứng với tài khoản ở dòng đó trong file users.txt phía trên, để trống nếu không dùng proxy
