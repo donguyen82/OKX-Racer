@@ -1,6 +1,6 @@
 ![OKX banner](https://github.com/user-attachments/assets/6c52d2b3-c510-4ecb-ac07-254c1d3f9e30)
 
-# Tool Auto OKX Racer NodeJS by Lượm Airdrop
+# Tool Auto OKX Racer NodeJS by kênh Telegram Lượm Airdrop Auto @autoairdropref
 
 **Tool phát triển và chia sẻ miễn phí tại Lượm Airdrop Auto**
 
