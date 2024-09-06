@@ -18,7 +18,7 @@
 
 > Tất cả dữ liệu mà bạn cần nhập đều nằm ở các file trong thư mục 📁 `src / data`
 
-- [users.txt](user.txt) : chứa danh sách `query_id` của các tài khoản, mỗi dòng ứng với một tài khoản
+- [user.txt](user.txt) : chứa danh sách `query_id` của các tài khoản, mỗi dòng ứng với một tài khoản
 - [proxy.txt](proxy.txt) : chứa danh sách proxy, proxy ở mỗi dòng sẽ ứng với tài khoản ở dòng đó trong file users.txt phía trên, để trống nếu không dùng proxy
 
 > Định dạng proxy: http://user:pass@ip:port
