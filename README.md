@@ -2,7 +2,7 @@
 
 # Tool Auto OKX Racer NodeJS by Lượm Airdrop
 
-**Tool phát triển và chia sẻ miễn phí tại kênh Telegram Lượm Airdrop Auto**(@autoairdropref)
+**Tool phát triển và chia sẻ miễn phí tại kênh Telegram [Lượm Airdrop Auto](https://t.me/autoairdropref)**
 
 ## 🛠️ Hướng dẫn cài đặt
 
